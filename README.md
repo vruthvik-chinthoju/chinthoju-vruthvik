@@ -1,16 +1,17 @@
-# Hi, I'm Ruthvik 👋
+# Hi, I’m Ruthvik 👋
 
-🚀 Full Stack / Backend Developer  
-💻 Python • Django • REST APIs • JavaScript  
-🌍 Passionate about building scalable, reliable web applications
+**Full Stack / Backend Developer**  
+Python • Django • Django REST Framework • JavaScript
+
+I build scalable, secure, and reliable web applications with a strong focus on backend systems and clean architecture.
 
 ---
 
 ## 🧑‍💻 About Me
-- Full Stack Developer with strong backend focus
-- Experienced in Django, Flask, REST Framework
-- Comfortable with frontend (HTML, CSS, JS)
-- Actively applying for backend / full stack roles
+- Backend-focused Full Stack Developer
+- Experienced in Django, Flask, and RESTful API development
+- Comfortable working across frontend and backend (HTML, CSS, JavaScript)
+- Actively applying for Backend / Full Stack Developer roles
 
 ---
 
@@ -24,18 +25,20 @@
 ---
 
 ## 📌 Projects
-- 🔗 **Portfolio Website**  
-  👉 https://chinthoju-vruthvik.netlify.app
+- **Portfolio Website**  
+  🌐 https://chinthoju-vruthvik.netlify.app
 
-- 🔗 **CRUD Applications with Django**
-- 🔗 **REST API Projects**
+- **Django CRUD Applications**  
+  Role-based CRUD applications with authentication
+
+- **REST API Projects**  
+  APIs with serializers, validations, and permissions
 
 ---
 
 ## 📫 Connect With Me
-- 🌐 Portfolio: https://chinthoju-vruthvik.netlify.app
+- 🌐 Portfolio: https://chinthoju-vruthvik.netlify.app  
 - 💼 LinkedIn: https://www.linkedin.com/in/chinthoju-vruthvik-83754b320/
 
 ---
-
-⭐ Feel free to check out my repositories and projects!
+⭐ Feel free to explore my repositories
