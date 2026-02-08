@@ -34,7 +34,7 @@
 
 ## 📫 Connect With Me
 - 🌐 Portfolio: https://chinthoju-vruthvik.netlify.app
-- 💼 LinkedIn: (add your link here)
+- 💼 LinkedIn: https://www.linkedin.com/in/chinthoju-vruthvik-83754b320/
 
 ---
 
